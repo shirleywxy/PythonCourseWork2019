@@ -88,7 +88,7 @@ Python大作业交流展示
 
 游戏设计
 
-* [飞机大战游戏](#airplaneGame)
+* [猫咪跑酷游戏](#Parkourgame)
 
 * [植物大战僵尸改编版](#plantsV.S.ZombiesGame)
 
@@ -775,15 +775,16 @@ MySQL数据库写入
 
 ### Team&Members
 
-## 项目:飞机大战游戏
+## 项目:猫咪跑酷游戏
 <span id="autoDrive"/>
 
 ### Introduction
 
-功能：子弹选择：一次一个，一次两个
-  地方飞机：两种或者三种
-  难度：根据积分升高难度加大
-改进：增加大飞机的血槽显示
+功能：键盘操控猫咪运动
+当前积分
+结束时最高分和当前分数
+关卡设计
+背景音乐和音效
 主要用pycharm pygame
 
 ### Feature&Technology
